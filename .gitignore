@@ -1,0 +1,13 @@
+projects
+.vagrant
+.secrets
+.sensitive
+che-data
+key-pairs
+ansible-install.retry
+.aws
+.kube
+.helm
+.java
+.m2
+.gradle
